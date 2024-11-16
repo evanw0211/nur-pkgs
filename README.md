@@ -1,4 +1,4 @@
-# evanw211's NUR repository
+# evanw0211's NUR repository
 
 ## packages
 
